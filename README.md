@@ -23,6 +23,8 @@ Numpy, scipy
 
 `dump.py` - module that comes with [pizza](https://pizza.sandia.gov/)
 
+`PowerSpectrum-HeatCapacity.py` - code to compute the Heat Capacity
+
 
 ## Restrictions 
 
